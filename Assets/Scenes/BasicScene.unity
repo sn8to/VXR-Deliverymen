@@ -514,7 +514,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 522069965468533825, guid: a0b994f7928a65b41b709c2794e1b1b4, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.411
+      value: 2.85
       objectReference: {fileID: 0}
     - target: {fileID: 522069965468533825, guid: a0b994f7928a65b41b709c2794e1b1b4, type: 3}
       propertyPath: m_LocalPosition.z
@@ -551,6 +551,10 @@ PrefabInstance:
     - target: {fileID: 897645083444600571, guid: a0b994f7928a65b41b709c2794e1b1b4, type: 3}
       propertyPath: m_Name
       value: CS_Plant_Pot_25_L3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2992136472844030015, guid: a0b994f7928a65b41b709c2794e1b1b4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.42
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
