@@ -4808,7 +4808,7 @@ MonoBehaviour:
   xrOrigin: {fileID: 441087509}
   groundMask:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 8
   lockWhileReeling:
   - {fileID: 441087508}
   - {fileID: 441087507}
